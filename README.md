@@ -2,6 +2,7 @@
 
 # OWASP Mobile Application Security Verification Standard (MASVS)
 
+
 [![OWASP Flagship](https://img.shields.io/badge/owasp-flagship%20project-48A646.svg)](https://owasp.org/projects/)
 [![Creative Commons License](https://img.shields.io/github/license/OWASP/owasp-masvs)](https://creativecommons.org/licenses/by-sa/4.0/ "CC BY-SA 4.0")
 
